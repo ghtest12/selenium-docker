@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="scripts.ContactUs">
+        <methods>
+          <include name="contactUs8"/>
+          <include name="contactUs7"/>
+          <include name="contactUs11"/>
+          <include name="contactUs6"/>
+          <include name="contactUs10"/>
+          <include name="contactUs9"/>
+          <include name="contactUs4"/>
+          <include name="contactUs12"/>
+          <include name="contactUs3"/>
+          <include name="contactUs2"/>
+          <include name="contactUs1"/>
+          <include name="contactUs5"/>
+          <include name="contactUs24"/>
+          <include name="contactUs25"/>
+          <include name="contactUs20"/>
+          <include name="contactUs22"/>
+          <include name="contactUs21"/>
+          <include name="contactUs23"/>
+          <include name="contactUs17"/>
+          <include name="contactUs16"/>
+          <include name="contactUs19"/>
+          <include name="contactUs18"/>
+          <include name="contactUs13"/>
+          <include name="contactUs15"/>
+          <include name="contactUs14"/>
+        </methods>
+      </class> <!-- scripts.ContactUs -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

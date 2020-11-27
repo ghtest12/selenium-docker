@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="23799" started-at="2020-11-25T09:16:27Z" finished-at="2020-11-25T09:16:51Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="23799" started-at="2020-11-25T09:16:27Z" finished-at="2020-11-25T09:16:51Z">
+      <class name="scripts.ContactUs">
+        <test-method status="PASS" signature="contactUs2()[pri:0, instance:scripts.ContactUs@8bd1b6a]" name="contactUs2" duration-ms="23745" started-at="2020-11-25T09:16:27Z" finished-at="2020-11-25T09:16:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactUs2 -->
+        <test-method status="PASS" signature="contactUs1()[pri:0, instance:scripts.ContactUs@8bd1b6a]" name="contactUs1" duration-ms="21327" started-at="2020-11-25T09:16:27Z" finished-at="2020-11-25T09:16:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactUs1 -->
+        <test-method status="PASS" signature="contactUs3()[pri:0, instance:scripts.ContactUs@8bd1b6a]" name="contactUs3" duration-ms="23060" started-at="2020-11-25T09:16:27Z" finished-at="2020-11-25T09:16:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactUs3 -->
+        <test-method status="PASS" signature="contactUs4()[pri:0, instance:scripts.ContactUs@8bd1b6a]" name="contactUs4" duration-ms="23445" started-at="2020-11-25T09:16:27Z" finished-at="2020-11-25T09:16:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactUs4 -->
+      </class> <!-- scripts.ContactUs -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
